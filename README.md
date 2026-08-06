@@ -2,7 +2,7 @@
 
 **AI Engineer at [Capco](https://www.capco.com/)** — I build production RAG systems and the data pipelines underneath them for financial services clients.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square)](https://www.linkedin.com/in/rithikreddy-dev/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square)](https://www.linkedin.com/in/rithiktheddu/)
 [![Email](https://img.shields.io/badge/Email-Get%20in%20touch-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rithiksunny1999@gmail.com)
 [![Resume](https://img.shields.io/badge/Resume-View-4285F4?style=flat-square&logo=googledocs&logoColor=white)](https://docs.google.com/document/d/1--KckuCO9q3K9TdftpMhG3RrJpmvfdha/edit?usp=sharing&ouid=114686238345698614306&rtpof=true&sd=true)
 [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-00EA64?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/rithiksunny1999)
@@ -54,4 +54,4 @@ Agent evaluation and observability — specifically, how you prove a multi-step 
 
 ---
 
-**Open to AI/ML engineering roles.** Reach me at [rithiksunny1999@gmail.com](mailto:rithiksunny1999@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/rithikreddy-dev/).
+**Open to AI/ML engineering roles.** Reach me at [rithiksunny1999@gmail.com](mailto:rithiksunny1999@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/rithiktheddu/).
